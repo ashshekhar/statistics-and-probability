@@ -1,2 +1,2 @@
-# statistics-and-probability
-MATH 414
+# Statistics and Probability
+## Notes: MATH 414 
