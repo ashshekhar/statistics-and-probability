@@ -1,2 +1,2 @@
 # Statistics and Probability
-## Notes: MATH 414 
+## Course Notes: MATH 414 by Dr. Armine Bagyan
